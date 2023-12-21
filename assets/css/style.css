@@ -1,0 +1,181 @@
+
+
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #7c2a2a;
+}
+
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #7c2a2a;
+    color: green;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.header nav ul {
+    list-style-type: none;
+a:link {
+    color: green;
+  }
+  
+  a:visited {
+    color: green;
+  }
+  
+  a:hover {
+    color: red;
+  }
+  
+  a:active {
+    color: yellow;
+  }
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+.Me {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url(assets/images/IMG_8011.jpeg)
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.More {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.More-About-Me {
+    margin-bottom: 20px;
+    background-image: url("https://unsplash.it/600/400");
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+}
+
+.Hobbies {
+    margin-bottom: 20px;
+    background-image: url("https://unsplash.it/600/400");
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+}
+
+
+
+.More-About-Me h3 {
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+
+.Hobbies h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+
+
+
+.Resume {
+    margin-bottom: 20px;
+   background-image: url("https://unsplash.it/600/400");
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+}
+
+.Goals-and-Aspirations {
+    margin-bottom: 20px;
+    background-image: url("https://unsplash.it/600/400");
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+}
+
+.Critical-Assets {
+    margin-bottom: 20px;
+    background-image: url("https://unsplash.it/600/400");
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+}
+
+.Resume h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.Goals-and-Aspirations h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.Critical-Assets h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
