@@ -61,7 +61,7 @@ a:link {
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/IMG_7587.JPG")
-    background-size: 800px 100%;
+    background-size: contain;
 }
 
 .float-left {
