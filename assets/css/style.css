@@ -55,20 +55,12 @@ a:link {
     margin-left: 25px;
 }
 
-a {
-    color: green;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
 
 .Me {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/4FF7605F-049B-4FAC-B29A-E8BBE0F5C117.jpeg")
+    background-image: url("../images/IMG_7587.JPG")
 }
 
 .float-left {
